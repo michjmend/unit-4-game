@@ -1,0 +1,55 @@
+.content {
+  margin: 10px;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+h1 {
+  font-size: 19px;
+  font-weight: bold;
+  background-color: #cf6a26;
+  color: white;
+  height: 100px;
+  width: 300px;
+  padding-top: 20px;
+  padding-left: 3px;
+}
+
+#directions {
+  margin: 15px;
+  padding-top: 20px;
+  background-color: #fee3c6;
+  color: green;
+  height: 400px;
+}
+
+#randomNumber {
+  background-color: #3bb375;
+  color: brown;
+  height: 110px;
+  font-size: 20px;
+  padding: 3px;
+}
+
+.stats {
+  background-color: #04fdff;
+  margin-bottom: 15px;
+  height: 110px;
+}
+
+.image {
+  margin-bottom: 15px;
+}
+
+.score {
+  background-color: #008b8b;
+  color: white;
+}
+
+#counter {
+  margin-top: 5px;
+  font-size: 20px;
+  height: 100px;
+  background-color: #008b8b;
+  color: white;
+  padding: 3px;
+}
